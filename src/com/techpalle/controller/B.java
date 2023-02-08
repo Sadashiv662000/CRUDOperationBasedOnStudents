@@ -1,4 +1,4 @@
-package com.techpalle;
+package com.techpalle.controller;
 
 public class B
 {
